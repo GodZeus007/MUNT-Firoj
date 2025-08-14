@@ -6,12 +6,12 @@
 
 <a href="https://godzeus007.github.io/MUNT-Firoj/"><img src="https://github.com/user-attachments/assets/48c3a9cb-06fa-4c45-92ec-194cdb7c5661" width="58"></a>
 <br>
-MYNT: Material You New Tab
+MUNT: Material UI New Tab
 
 </h1>
 <div align="center">
 
-MYNT: Material You New Tab is a versatile browser extension that personalizes your New Tab page with customizable themes, a welcoming message, and various handy tools, all while integrating seamlessly with your preferred search engine.
+MUNT: Material UI New Tab is a versatile browser extension that personalizes your New Tab page with customizable themes, a welcoming message, and various handy tools, all while integrating seamlessly with your preferred search engine.
 
 </div>
 
@@ -59,28 +59,14 @@ MYNT: Material You New Tab is a versatile browser extension that personalizes yo
 
 
     - You can also download the ZIP file by clicking on the Code button. On the repository page, look for a green button labeled **Code**. Click on the **Code** button, and in the dropdown menu, select **Download ZIP**.
-
-2. **Stable Release** (v3.2)
-
-<p align="center">
-    <a href="https://godzeus007.github.io/MUNT-Firoj/releases/latest"><img src="https://github.com/user-attachments/assets/51048d6d-0b35-4f62-8351-4a3ea52d2213" alt="Download from GitHub" height="48" /></a>
-    <a href="https://chromewebstore.google.com/detail/mynt-material-you-new-tab/jjpokbgpiljgndebfoljdeihhkpcpfgl"><img src="https://github.com/user-attachments/assets/7a829ba4-dcd0-452b-922a-5efacbfda498" alt="Download from Chrome Web Store" height="48" /></a>
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/mynt/"><img src="https://blog.mozilla.org/addons/files/2020/04/get-the-addon-fx-apr-2020.svg" alt="Download from Mozilla Add-ons" height="48" /></a>
-</p>
-
 ---
 
 ### Installation
 
 #### ![Chromium](https://img.icons8.com/?size=20&id=104996&format=png&color=000000) Chromium-Based Browsers
 
-1. **Install from Chrome Web Store**:
 
-   - [Chrome Web Store link](https://chromewebstore.google.com/detail/mynt-material-you-new-tab/jjpokbgpiljgndebfoljdeihhkpcpfgl)
-
-   **Or** follow the manual steps below:
-
-2. **Manual Installation**:
+1. **Manual Installation**:
 
    - **Prepare the Extension Folder**:
 
