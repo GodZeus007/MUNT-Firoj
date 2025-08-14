@@ -197,7 +197,7 @@ Contributions are welcome! If you’d like to contribute:
 
 ## ⭐ Star History
 
-Here is the star history chart for the **MYNT: Material You New Tab** repository. It shows the growth of stars over time, reflecting the increasing interest and support for the project.
+Here is the star history chart for the **MUNT: Material UI New Tab** repository. It shows the growth of stars over time, reflecting the increasing interest and support for the project.
 
 
 ## ❓ Issues and Support
@@ -207,7 +207,7 @@ Here is the star history chart for the **MYNT: Material You New Tab** repository
 
 ## 🛡 Privacy Policy
 
-MYNT: Material You New Tab prioritizes your privacy and is focused solely on providing a better browsing experience. For more details, read our [Privacy Policy](https://godzeus007.github.io/MUNT-Firoj/privacy-policy.html).
+MUNT: Material UI New Tab prioritizes your privacy and is focused solely on providing a better browsing experience. For more details, read our [Privacy Policy](https://godzeus007.github.io/MUNT-Firoj/privacy-policy.html).
 
 ## 📜 License
 
